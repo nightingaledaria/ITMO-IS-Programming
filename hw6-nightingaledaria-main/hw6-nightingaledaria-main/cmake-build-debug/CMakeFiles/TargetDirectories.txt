@@ -1,0 +1,3 @@
+C:/labs 1sem/C programming/progaLaba6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/labs 1sem/C programming/progaLaba6/cmake-build-debug/CMakeFiles/progaLaba6.dir
+C:/labs 1sem/C programming/progaLaba6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
